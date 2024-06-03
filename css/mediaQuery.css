@@ -1,0 +1,413 @@
+@media (max-width:575px){
+ 
+      .head .container-head{
+        display: flex;
+        flex-direction: column-reverse;
+        height: 200vh;
+       
+      }
+     
+      .head .head_image{
+        width: 100%;
+      }
+      .head .head_description{
+        width: 100%;
+        text-align: center;
+      }
+     
+      .nav_parent{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        
+      
+      }
+    
+     
+      .navbar .nav_menu ul{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+        width: 100%;
+       
+  
+      }
+      .nav_menu ul li{
+        text-align: center;
+        margin-left: 25rem;
+       padding: 4rem;
+       
+      }
+      .contact_data{
+        display: flex;
+        flex-direction: column;
+       
+      }
+    .contact_data1{
+      width: 100%;
+    }
+    .contact form{
+      width: 100%;
+    }
+    .form .label1{
+      display: flex;
+      flex-direction: column;
+    }
+    .form .label1 input{
+      width: 100%;
+    }
+
+    .form .textarea textarea input{
+      width: 100%;
+      
+  }
+  .form .submit input{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+     width: 50%;
+  }
+
+  .chef_parent{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+   .chef_child{
+    width: 90%;
+    margin: auto;
+   }
+  
+    .gallery_parent{
+      display: flex;
+      flex-direction: column;
+    }
+    .gallery_item{
+      width: 100%;
+     }
+
+     .footer .row {
+      display: flex;
+  flex-direction: column;
+  }
+  .Mealify {
+      width: 100%;
+      z-index: 11;
+  }
+  
+  .Subscribe {
+      width: 100%;
+   
+  }
+  .Subscribe h3 {
+      font-size: 1.4rem;
+      margin: 0.9rem 0;
+  }
+  .Subscribe p {
+      width: 100%;
+  }
+  
+  .Subscribe .Subscribe-group {
+      flex-direction: column;
+    
+  
+  }
+  .Subscribe .Subscribe-group input {
+      width: 100%;
+      margin-bottom: 1rem;
+  
+  }.Touch {
+      width: 100%;
+  }
+  
+
+  
+
+  
+
+  } 
+  
+  @media (min-width:576px) and (max-width:767px){
+    .nav_parent{
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      
+    
+    }
+  
+   
+    .navbar .nav_menu ul{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+     
+
+    }
+    .nav_menu ul li{
+      text-align: center;
+      padding-left: 10rem;
+      margin-left: 40rem;
+    }
+    .head .container-head{
+      display: flex;
+      flex-direction: column-reverse;
+      height: 220vh;
+    }
+    .head .head_image{
+      width: 100%;
+    }
+    .head .head_description{
+      width: 100%;
+      text-align: center;
+    }
+ 
+  .contact_data{
+    display: flex;
+    flex-direction: column;
+   
+  }
+.contact_data1{
+  width: 100%;
+}
+.contact form{
+  width: 100%;
+}
+  .form .label1{
+    display: flex;
+    flex-direction: column;
+  }
+  .form .label1 input{
+    width: 100%;
+  }
+
+  .form .textarea textarea input{
+    width: 100%;
+    
+}
+.form .submit input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   width: 50%;
+}
+.chef_parent{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+ .chef_child{
+  width: 90%;
+  margin: auto;
+ }
+
+      .gallery_parent{
+        display: flex;
+        flex-direction: column;
+      }
+      .gallery_item{
+        width: 100%;
+       
+       }
+       .footer .row {
+        display: flex;
+    flex-direction: column;
+    }
+    .Mealify {
+        width: 100%;
+        z-index: 11;
+    }
+    
+    .Subscribe {
+        width: 100%;
+     
+    }
+    .Subscribe h3 {
+        font-size: 1.4rem;
+        margin: 0.9rem 0;
+    }
+    .Subscribe p {
+        width: 100%;
+    }
+    
+    .Subscribe .Subscribe-group {
+        flex-direction: column;
+      
+    
+    }
+    .Subscribe .Subscribe-group input {
+        width: 100%;
+        margin-bottom: 1rem;
+    
+    }.Touch {
+        width: 100%;
+    }
+    
+     
+  }
+  
+  @media (min-width:768px) and (max-width:991px){
+    .nav_parent{
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      
+    
+    }
+ 
+   
+    .navbar .nav_menu ul{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 100%;
+     
+
+    }
+    .nav_menu ul li{
+      text-align: center;
+      padding-left: 10rem;
+      margin-left: 50rem;
+    }
+    .head .container-head{
+      display: flex;
+      flex-direction: column-reverse;
+      height: 320vh;
+    }
+    .head .head_image{
+      width: 90%;
+      margin: auto;
+    }
+    .head .head_description{
+      width: 90%;
+      text-align: center;
+    }
+    .contact_data{
+      display: flex;
+      flex-direction: column;
+     
+    }
+  .contact_data1{
+    width: 100%;
+  }
+  .contact form{
+    width: 100%;
+  }
+  .form .label1{
+    display: flex;
+    flex-direction: column;
+  }
+  .form .label1 input{
+    width: 100%;
+  }
+
+  .form .textarea textarea input{
+    width: 100%;
+    
+}
+.form .submit input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   width: 50%;
+}
+.chef_parent{
+ 
+  justify-content: space-between;
+  
+  flex-wrap: wrap;
+
+}
+
+ .chef_child{
+  width: 48%;
+ }
+
+ .gallery_parent{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.gallery_item{
+  width: 50%;
+   
+ }
+
+ .contact_data{
+  display: flex;
+  flex-direction: row;
+ 
+}
+.contact_data1{
+width: 49%;
+}
+.contact form{
+width: 50%;
+}
+.footer .row {
+  display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+.Mealify {
+  width: 49%;
+  z-index: 11;
+}
+
+.Subscribe {
+  width: 100%;
+
+}
+.Subscribe h3 {
+  font-size: 1.4rem;
+  margin: 0.9rem 0;
+}
+.Subscribe p {
+  width: 100%;
+}
+.container row{
+  display: flex;
+  flex-direction: row;
+  
+}
+.Mealify{
+  order: 1
+}
+.Touch{
+  order:2
+}
+.Subscribe{
+  order:3
+}
+
+.Subscribe .Subscribe-group {
+  flex-direction: column;
+
+
+}
+.Subscribe .Subscribe-group input {
+  width: 100%;
+  margin-bottom: 1rem;
+
+}.Touch {
+  width: 100%;
+}
+
+/* .conatiner-gallery .gallery_item .gallery_item1{
+  columns: 2;
+  column-gap: 50px;
+} */
+  } 
+  
+
+
+ 
+  @media (min-width:992px) and (max-width:1199px){
+   
+  }
